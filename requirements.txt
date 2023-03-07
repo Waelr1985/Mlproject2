@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 pandas
 numpy
 seaborn
 -e .
+=======
+pandas
+numpy
+seaborn
+-e .
+>>>>>>> 50c19aa0571ee24143c2e64bfd1722609ef73dd0
